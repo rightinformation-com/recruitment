@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-const saveNotebook = () => {
+const saveNotebook = async () => {
   // Logic to save the notebook, don't implement it here, it's only a placeholder
   console.log('Notebook saved');
 };
